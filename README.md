@@ -1,0 +1,2 @@
+# Fist-Bump
+Fist Bump is a social-networking application aimed at students across different universities in Melbourne. Through our easy, interactive and up-to-date features, we intend to connect students across the state, allowing them to find friends, study buddies and assignment groups. Looking for someone who studies Software Engineering and can speak JavaScript? No worries, Fist Bump has got you covered! 
